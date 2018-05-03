@@ -35,7 +35,7 @@
 	],
 	"dependencies": {
 		"decode-uri-component": "^0.2.0",
-		"strict-uri-encode": "https://github.com/ShadyXV/strict-uri-encode.git"
+		"strict-uri-encode": "https://github.com/ShadyXV/strict-uri-encode.git#es5"
 	},
 	"devDependencies": {
 		"ava": "*",
